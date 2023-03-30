@@ -1,0 +1,19 @@
+{
+  "name": "tailwind-create-color",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thmarinho/tailwind-create-color.git"
+  },
+  "bin": {
+    "tailwind-create-color": "bin/index.js"
+  },
+  "author": "thmarinho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thmarinho/tailwind-create-color/issues"
+  },
+  "homepage": "https://github.com/thmarinho/tailwind-create-color"
+}
